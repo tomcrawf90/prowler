@@ -15,4 +15,4 @@ GROUP_ID[11]='custom'
 GROUP_NUMBER[11]='11.0'
 GROUP_TITLE[11]='Custom Checks - [custom] ****************************'
 GROUP_RUN_BY_DEFAULT[11]='Y' # run it when execute_all is called
-GROUP_CHECKS[11]='check1101'
+GROUP_CHECKS[11]='check1101,check1102'
